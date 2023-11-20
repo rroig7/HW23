@@ -24,5 +24,6 @@ ys = y1 + y2
 
 show_frequency(x, y1, 1)
 show_frequency(x, y2, 2)
+show_frequency(x, ys, 3)
 
 plt.show()
